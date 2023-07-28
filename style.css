@@ -1,0 +1,39 @@
+body{
+    background-color: #f4f4f4;
+    font-family: 'Ubuntu', sans-serif;
+    color: #888888;
+    font-weight: 700;
+    transition: background-color 1s ease;
+}
+
+.panel{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 64px;
+}
+
+.bg-blue{
+    background-color: #2f8fed;
+    color: #eeeeee;
+}
+
+.bg-green{
+    background-color: #4dcf42;
+    color: #eeeeee;
+}
+
+.bg-yellow{
+    background-color: #faeb33;
+    color: #888888;
+}
+
+.bg-black{
+    background-color: #222222;
+    color: #888888;
+}
+
